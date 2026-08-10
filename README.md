@@ -1,3 +1,9 @@
+## Business Problem
+
+Organizations moving from traditional datacenters to Microsoft Azure require standardized governance, security, operational excellence, and cost management practices.
+
+This repository provides a Cloud Center of Excellence framework that helps organizations establish a secure, scalable, and compliant Azure foundation.
+
 # Azure Cloud Center of Excellence (CCoE) Demo
 
 ## Overview
